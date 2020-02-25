@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c67b4225-d82c-4757-8aa0-54c38ab27980</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Linear Regression_NoPlaceHolder.py</StartupFile>
+    <StartupFile>Logistic Regression.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,6 +23,12 @@
   <ItemGroup>
     <Compile Include="Linear Regression_NoPlaceHolder.py" />
     <Compile Include="Linear Regression_PlaceHolder.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Logistic Regression.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Linear Regression with graph.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
