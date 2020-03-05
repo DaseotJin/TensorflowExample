@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c67b4225-d82c-4757-8aa0-54c38ab27980</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Logistic Regression.py</StartupFile>
+    <StartupFile>Softmax_Classifier.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -29,6 +29,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Linear Regression with graph.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Softmax_Classifier.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
